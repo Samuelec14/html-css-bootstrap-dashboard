@@ -10,3 +10,6 @@
 .debug .section-1{
     min-height: 7.5rem;
 }
+.debug .debug-col{
+    min-height: 6.25rem;
+}
