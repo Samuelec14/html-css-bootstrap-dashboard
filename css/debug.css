@@ -1,9 +1,12 @@
-header{
+.debug header{
     background-color: pink;
 }
-.page-bottom{
+.debug .page-bottom{
     background-color: aqua;
 }
-aside{
+.debug aside{
     background-color: rgb(9, 9, 68);
+}
+.debug .section-1{
+    min-height: 7.5rem;
 }
