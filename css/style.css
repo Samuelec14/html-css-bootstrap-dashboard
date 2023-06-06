@@ -24,3 +24,6 @@ aside{
 }
 
 /* -------------------- main  ---------------------*/
+main .section-2 .class_avatar{
+    width: 1.9375rem;
+}
