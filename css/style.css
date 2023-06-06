@@ -1,21 +1,26 @@
 /* -------------------- general  ---------------------*/
-
+img{
+    width: 100%;
+}
 
 /* -------------------- header  ---------------------*/
 header{
-    height: 3.125rem;
-    /* background-color: white; */
+    height: 4.125rem;
+    background-color: white;
 }
 
 /* -------------------- page-bottom  ---------------------*/
+aside{
+    background-color: rgb(5, 30, 52);
+}
 .page-bottom{
-    height: calc(100vh - 3.125rem);
+    height: calc(100vh - 4.125rem);
 }
 
 /* -------------------- aside  ---------------------*/
 
 aside{
-    height: calc(100vh - 3.125rem);
+    height: calc(100vh - 4.125rem);
 }
 
 /* -------------------- main  ---------------------*/
